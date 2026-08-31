@@ -1,0 +1,5 @@
+.settings
+[Rr]elease
+*.launch
+/[Dd]ebug/*
+!/[Dd]ebug/*.hex
